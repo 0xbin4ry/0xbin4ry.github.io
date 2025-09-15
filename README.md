@@ -1,17 +1,23 @@
-# Cybersecurity Writeups & Notes
-Welcome to my GitPage: [0xbin4ry.github.io](https://0xbin4ry.github.io)  
-This site is a curated hub for my practical cybersecurity work: machine walkthroughs, CTF solutions, and study reflections aimed at improving technical reporting and hands‑on skills
+> _“We pry open systems to see how the world actually runs.”_
 
-## 🔍 What’s here
-- **Write-ups for vulnerable machines** (Hack The Box, Try Hack Me, Offensive Security, etc.)  
-- **CTF challenge solutions & breakdowns**  
-- **Certification review notes & study reflections**
-- **Tutorials — reverse engineering and exploit development**
+I’m **0xbin4ry**, low‑level developer and researcher focused on reverse engineering and offensive security. I explore system internals, build proofs‑of‑concept, and solve CTFs to sharpen practical skills.
 
-## 💡 Why I publish this
-- To refine technique and documentation for real‑world security assessments and red team engagements
-- To share repeatable methodologies, tooling notes, and lessons learned for others studying offensive security
+## What I do
+- **Reverse Engineering:** unpacking binaries, analyzing control flow and data structures, rebuilding intent from disassembly.  
+- **Low‑Level Development:** kernel and userland tooling, exploit primitives, and small, auditable POCs.  
+- **Offensive Security:** end‑to‑end assessments on lab targets; vulnerability classification and exploitation techniques.  
+- **CTF Play:** challenge solves that drive practical research and concise write‑ups.
 
-## ⚠️ Quick pointers
-- Each write-up includes: scope, attack path, commands used, and remediation notes
-- Contributions and constructive feedback welcome — find source and contact links on the site
+---
+
+## What’s on this site
+- Vulnerable machine write‑ups
+- CTF solutions & breakdowns
+- Exploit & RE tutorials
+- Study notes & reviews
+
+---
+
+## Why I publish this
+- To refine technique and documentation for real‑world security assessments and red team engagements.
+- To share repeatable methodologies, tooling notes, and lessons learned for others studying offensive security.
