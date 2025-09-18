@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 > _“We pry open systems to see how the world actually runs.”_
 
 I’m **0xbin4ry**, low‑level developer and researcher focused on reverse engineering and offensive security. I explore system internals, build proofs‑of‑concept, and solve CTFs to sharpen practical skills.
