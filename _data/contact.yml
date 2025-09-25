@@ -1,23 +1,22 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
+   icon: "fab fa-github"
 
 - type: twitter
-  icon: "fa-brands fa-x-twitter"
+   icon: "fa-brands fa-x-twitter"
 
-# - type: email
-# icon: "fas fa-envelope"
-# noblank: true # open link in current tab
-
-- type: linkedin
-  icon: 'fab fa-linkedin'
-  url:  'https://www.linkedin.com/in/0xbin4ry'
+- type: email
+   icon: "fas fa-envelope"
+   noblank: true # open link in current tab
 
 - type: rss
-  icon: "fas fa-rss"
-  noblank: true
-# Uncomment and complete the url below to enable more contact options
+   icon: "fas fa-rss"
+   noblank: true
+
+# - type: linkedin
+#   icon: 'fab fa-linkedin'
+#   url:  ''
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
