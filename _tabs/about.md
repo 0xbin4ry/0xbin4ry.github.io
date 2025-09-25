@@ -6,7 +6,7 @@ order: 4
 
 > _“We pry open systems to see how the world actually runs.”_
 
-I’m **0xbin4ry**, low‑level developer and researcher focused on reverse engineering and offensive security. I explore system internals, build proofs‑of‑concept, and solve CTFs to sharpen practical skills.
+I’m **0xb1n4ry**, low‑level developer and researcher focused on reverse engineering and offensive security. I explore system internals, build proofs‑of‑concept, and solve CTFs to sharpen practical skills.
 
 ## What I do
 - **Reverse Engineering:** unpacking binaries, analyzing control flow and data structures, rebuilding intent from disassembly.  
