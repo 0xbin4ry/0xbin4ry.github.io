@@ -15,8 +15,8 @@
    noblank: true
 
 # - type: linkedin
-#   icon: 'fab fa-linkedin'
-#   url:  ''
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Linkedin homepage
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
